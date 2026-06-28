@@ -102,7 +102,7 @@ Have questions or suggestions? We'd love to hear from you!
 
 ## 🎉 Acknowledgments
 
-Special thanks to all our contributors and the open-source community for making this project possible!
+Special thanks to all our contributors and the open-source community for making this project possible! 
 
 ---
 
